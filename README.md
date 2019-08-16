@@ -1,5 +1,5 @@
 # machinelearning
-#practice of machine learning on OCI compute
+#practice of machine learning on OCI compute /
 
 Install Jupyter Notebook on VM compute
 
