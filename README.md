@@ -1,13 +1,13 @@
 # machinelearning
-#practice of machine learning on OCI compute /
+#practice of machine learning on OCI compute
 
 Install Jupyter Notebook on VM compute
 
 Check python version on the OCI compute:
 
-$ python -V
+$ python -V 
 
-Install pip on vm compute: 
+Install pip on vm compute:  
 $ sudo yum install python-pip
 $ sudo pip install --upgrade pip
 
