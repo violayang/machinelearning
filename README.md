@@ -1,5 +1,4 @@
-# machinelearning
-###**Install Jupyter Notebook on Oracle VM compute**
+# machinelearning###**Install Jupyter Notebook on Oracle VM compute**
 
 Check python version on the OCI compute:
 '''
