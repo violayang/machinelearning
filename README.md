@@ -18,7 +18,8 @@ $ mkdir anaconda
 $ cd anaconda
 $ wget https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh
 $ bash ~/anaconda/Anaconda3-5.3.0-Linux-x86_64.sh
->>> Follow the instructions
+
+Follow the instructions
 
 After finish config anaconda, source the .bashrc
 $ source ~/.bashrc
